@@ -27,8 +27,7 @@ body::before {
 
 .content {
   padding-top: 2.6667rem;
-  min-width: 20rem;
-  max-width: 20rem;
+
   margin: 0 auto;
   text-align: center;
 }
